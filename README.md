@@ -1,1 +1,1 @@
-# Real-Time-Face-Data-Collection-and-Attendance-System
+# face_recognition_project
